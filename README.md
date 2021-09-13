@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**sebastiaojuniordev/sebastiaojuniordev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Sebastião Junior, Desenvolvedor Backend com foco em Java.
 
-Here are some ideas to get you started:
+Atualmente trabalho na Stone Co.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Entre em contato
+<a href="https://www.linkedin.com/in/sebasti%C3%A3o-junior" target="_blank">
+<img align="left" alt="Linkedin" width="24px" src="https://github.com/sebastiaojuniordev/sebastiaojuniordev/blob/master/assets/linkedin.svg" />
+</a>
+<a href="mailto:sebastiaojuniordev@gmail.com">
+<img align="left" alt="E-mail" width="26px" src="https://github.com/sebastiaojuniordev/sebastiaojuniordev/blob/master/assets/gmail.svg" />
+</a>
