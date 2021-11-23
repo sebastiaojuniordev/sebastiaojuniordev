@@ -1,8 +1,8 @@
 ### Olá 👋
 
-Me chamo Sebastião Junior, Desenvolvedor Backend com foco em Java.
+Me chamo Sebastião Junior, Desenvolvedor Back-end com grande experiência em Java, porém consigo me lidar muito bem com outras linguagens de programação, constantemente procuro me aperfeiçoar buscando novas habilidades e novos conhecimentos. 
 
-Atualmente trabalho na Stone Co.
+Atualmente trabalho na Stone.
 
 
 ### Entre em contato
