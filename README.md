@@ -1,4 +1,4 @@
-Hi, my name is Sebastião, I've been a software engineer for over 5 years, I'm currently working on iFood.
+Hi, my name is Sebastião, I've been a software engineer for over 5 years, I'm currently work at iFood.
 
 ### Contact
 <a href="https://www.linkedin.com/in/sebastiaojuniordev" target="_blank">
